@@ -19,4 +19,4 @@ In order to use this example make sure you have installed and configured the fol
 - Now you have several options, either run the different "Lacework: ..." commands by its own or run everything at once using the "Lacework: Build, scan and delete Docker image for vulnerabilities" task
 - Result of the vulnerability scan will be output in the integrated terminall
 
-[Demo video](https://raw.githubusercontent.com/timarenz/vscode-custom-tasks-lacework/main/images/demoscan.gif)
+![Demo video](https://raw.githubusercontent.com/timarenz/vscode-custom-tasks-lacework/main/images/demoscan.gif)
